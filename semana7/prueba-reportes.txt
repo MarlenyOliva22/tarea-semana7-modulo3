@@ -1,0 +1,3 @@
+Cuando realizo la consulta mediante la ruta Get en localhost:3000/reportes, el servidor
+nos responde con un código status:200 OK, la respuesta devuelve un arreglo en formato
+JSON el cual tiene el reporte de infraestructura y el segundo de ambiente.
